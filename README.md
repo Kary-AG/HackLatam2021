@@ -1,3 +1,3 @@
 # HackLatam2021
 
-![SchoolGames](~/img/Games.png)
+![SchoolGames](https://github.com/Kary-AG/HackLatam2021/blob/main/img/Games.png)
