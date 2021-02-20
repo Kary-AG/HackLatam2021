@@ -32,6 +32,7 @@
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#dinamica">Dinamica</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#team">Team</a></li>
                         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Asesorias</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#ingresar">Ingreso</a></li>
                     </ul>
                 </div>
             </div>
@@ -44,6 +45,59 @@
                 <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#games">Tell Me More</a>
             </div>
         </header>
+        <!-- Ingreso -->
+        <section class="page-section" id="ingresar">
+            <style>
+                .contiene {
+                height: 200px;
+                position: relative;
+                }
+                .center {
+                margin: 0;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                -ms-transform: translate(-50%, -50%);
+                transform: translate(-50%, -50%);
+                }
+            </style>
+            <div class="contiene">
+                <div class="text-center">
+                    <h2 class="section-heading text-uppercase">¡Regístrate!</h2>
+                    <h3 class="section-subheading text-muted">Para poder accesar en grupo, debes registrarte.</h3>
+                </div>
+                <!-- Log -->
+                <!-- Button to open the modal login form -->
+                <div class="contiene">
+                    <div class="center">
+                    <button onclick="document.getElementById('id01').style.display='block'">Ingresar</button>
+                    </div>
+                  </div>
+                <!-- The Modal -->
+                <div id="id01" class="modal">
+                <span onclick="document.getElementById('id01').style.display='none'"
+                        class="close" title="Close Modal">&times;</span>
+
+                <div class="container">
+                    <label for="uname"><b>Nombre de usuario</b></label>
+                    <input type="text" placeholder="Ingresa un usario" name="uname" required>
+
+                    <label for="psw"><b>Contraseña</b></label>
+                    <input type="password" placeholder="Ingresa una contraseña" name="psw" required>
+
+                    <button type="submit">Ingresar</button>
+                    <label>
+                    <input type="checkbox" checked="checked" name="remember"> Recordarme
+                    </label>
+                </div>
+
+                <div class="container" style="background-color:#f5f5f5">
+                    <button type="button" onclick="document.getElementById('id01').style.display='none'" class="cancelbtn">Cancel</button>
+                    <span class="psw">Forgot <a href="#">password?</a></span>
+                </div>
+            </form>
+            </div>
+        </section>
         <!-- Games-->
         <section class="page-section" id="games">
             <div class="container">
