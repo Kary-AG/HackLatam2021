@@ -4,7 +4,7 @@
 
 ### Contenidos 
 - [Planteamiento del problema](#problema)
-- [Hipotesis](#hipotesis)
+- [Hipótesis](#hipotesis)
 - [Objetivo](#objetivo)
 - [Indice](Introducción)
 - [Desarrrollo del Tema](#tema)
