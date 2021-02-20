@@ -1,3 +1,3 @@
 # HackLatam2021
 
-![SchoolGames](~/Downloads/)
+![SchoolGames](~/img/Games.png)
