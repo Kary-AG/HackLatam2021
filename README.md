@@ -2,12 +2,4 @@
 
 ![SchoolGames](https://github.com/Kary-AG/HackLatam2021/blob/main/img/Games.png)
 
-### Contenidos 
-- [Planteamiento del problema](#problema)
-- [Hipótesis](#hipotesis)
-- [Objetivo](#objetivo)
-- [Indice](Introducción)
-- [Desarrrollo del Tema](#tema)
-- [Soulución](#solución)
 
-# Planteamiento del Problema.
