@@ -4,7 +4,7 @@
 
 # ¿Has notado que tu habilidad social ha cambiado durante las clases en línea? (Pausa)
 
-Canek, un estudiantede universitario,ha bajado notablemente su rendimiento escolar y muestra frustración por no entender sus clases como lo hacía de forma presencial. Él es una de las 200 personas que afirmaron en nuestra encuesta *haber tenido/notado* un cambio, es por ello que desarrrollamos "School Games".
+Canek, un estudiantede universitario,ha bajado notablemente su rendimiento escolar y muestra frustración por no entender sus clases como lo hacía de forma presencial. El es una de las 200 personas que afirmaron en nuestra encuesta *haber tenido/notado* un cambio, es por ello que desarrrollamos "School Games".
 
 Una plataforma de aprendizaje que es cómoda, accesible e interactiva para  los estudiantes y profesores, consta de minijuegos estos pueden resolverse en equipo y son diseñados por el profesor mediante plantillas prediseñadas, que hacen más fácil la implementación de dichos minijuegos educativos.
 
