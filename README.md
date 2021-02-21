@@ -2,7 +2,7 @@
 
 ![SchoolGames](https://github.com/Kary-AG/HackLatam2021/blob/main/img/Games.png)
 
-**¿Has notado que tu habilidad social ha cambiado durante las clases en línea? ** (Pausa)
+**¿Has notado que tu habilidad social ha cambiado durante las clases en línea?** (Pausa)
 
 
 Canek, un estudiante universitario, ha bajado notablemente su rendimiento escolar y muestra frustración por no entender sus clases como lo hacía de forma presencial. El es una de las 200 personas que afirmaron en nuestra encuesta haber notado un cambio, es por ello que desarrrollamos "School Games".
