@@ -45,3 +45,6 @@ Muchas gracias por oirnos,  somos el equipo ENIGMA, estudiantes de la facultad d
 
 - Dado que nuestra encuesta tuvo una mayor respuesta por estudiantes universitarios, como ya mencionamos en un principio solo nos enfocaremmos en materias escenciales, con la idea a futuro de ampliar nuestra área de conocimiento.
 
+4. Diferencia
+
+- Idioma Coreano/Español/Inglés
