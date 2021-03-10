@@ -8,7 +8,7 @@
 
 Este proyecto surge a partir de la dificultad que como estudiantes universitarios hemos notado al interactuar con nuestros compañeros de clase en la modalidad a distancia.
 
-En pro a obtner información acerca de cómo se sentían los estudiantes respecto a la situación escolar actual, se realizo la siguiente [encuesta.](https://forms.office.com/Pages/DesignPage.aspx?origin=OfficeDotCom&route=OfficeHome&lang=en-US#FormId=BUvlSn63JEKu8YZhQi4IFuuq04ijJ0dMgv1FVGzZUcJUQ0JDU0pLWlRKTDJFVjQ2VDU1VTY1RkVDTC4u)
+En pro a obtener información acerca de cómo se sentían los estudiantes respecto a la situación escolar actual, se realizo la siguiente encuesta. [ Ver resultados.](https://forms.office.com/Pages/DesignPage.aspx?origin=OfficeDotCom&route=OfficeHome&lang=en-US#FormId=BUvlSn63JEKu8YZhQi4IFuuq04ijJ0dMgv1FVGzZUcJUQ0JDU0pLWlRKTDJFVjQ2VDU1VTY1RkVDTC4u)
 
 A partir de la información obtenuda de la encuesta, nace la idea de una plataforma que haga más sencilo a los estudiantes y profesores el organizarse, colaborar e interactuar aún a distancia.
 
