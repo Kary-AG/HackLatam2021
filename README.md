@@ -26,10 +26,10 @@ Se basa en el modelo de negocio **In-app Purchase**, dado que no todos los profe
 
 - Multijugador
 
-  La implementación de modalidades de soporte a más de un jugador en los juegos hará más interactiva.
+      La implementación de modalidades de soporte a más de un jugador en los juegos hará más interactiva.
 
 - Automatización
 
-  Hacer práctica la creación de las plantillas es posible mediante la automatización con ayuda de, por ejemplo, una IA. 
+      Hacer práctica la creación de las plantillas es posible mediante la automatización con ayuda de, por ejemplo, una IA. 
   
-  
+  Para más información ver el reporte:[Ver presentación](https://github.com/Kary-AG/HackLatam2021/blob/main/Presentacion/Presentaci%C3%B3nHL.pdf)
