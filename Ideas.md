@@ -1,4 +1,4 @@
-## Pitch
+## Ideas
 
 ¿Has notado que tu habilidad social ha cambiado durante las clases en línea? 
 
